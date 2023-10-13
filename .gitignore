@@ -1,0 +1,20 @@
+# dependencies
+node_modules
+**/node_modules
+**/**/node_modules
+
+# production
+public
+**/public
+**/**/public
+
+
+# env
+.env
+**/.env
+**/**/.env
+
+
+
+#dist
+dist
